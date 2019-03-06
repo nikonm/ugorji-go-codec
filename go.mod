@@ -1,1 +1,0 @@
-module github.com/nikonm/ugorji-go-codec
